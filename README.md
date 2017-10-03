@@ -19,7 +19,7 @@ preferred) to the most generic ones.
 
 ### Debian GNU/Linux
 
-The package is existing in Debian Sid and should appear soon in other releases
+The package exists in Debian Sid and should appear soon in other releases
 and derivaives. If your suite is already supported, simply do:
 
 ```
